@@ -14,16 +14,16 @@ So far I have one licensed album of arranged video game music called *Aural Nost
 <img src="http://mreomusic.com/wp-content/images/aural-nostalgia-vol-1.png.500.jpg" width="200px" height="200px" />
 
 Here's the tracklist:
-
-1.  "Sol Sanctum - The Elemental Stars" from *Golden Sun*
-2. "S.S. Anubis" from *Jet Force Gemini*
-3. "Condemned Tower" from *Castlevania: Dawn of Sorrow*
-1. "Fully Powered Suit" from *Metroid: Zero Mission*
-1. "Mt. Coronet" from *Pokemon Diamond/Pearl/Platinum*
-1. "Title Theme" from *Metroid Prime 2: Echoes*
-1. "Calming Dawn" from *Minecraft* (remix of "Sweden")
-1. "Phendrana Drifts" from *Metroid Prime*
-
+<ol>
+<li>"Sol Sanctum - The Elemental Stars" from <i>Golden Sun</i></li>
+<li>"S.S. Anubis" from <i>Jet Force Gemini</i></li>
+<li>"Condemned Tower" from <i>Castlevania: Dawn of Sorrow</i></li>
+<li>"Fully Powered Suit" from <i>Metroid: Zero Mission</i></li>
+<li>"Mt. Coronet" from <i>Pokemon Diamond/Pearl/Platinum</i></li>
+<li>"Title Theme" from <i>Metroid Prime 2: Echoes</i></li>
+<li>"Calming Dawn" from <i>Minecraft</i> (remix of "Sweden")</li>
+<li>"Phendrana Drifts" from <i>Metroid Prime</i></li>
+</ol>
 Below is a showcase of my work on SoundCloud.
 
 <html>
