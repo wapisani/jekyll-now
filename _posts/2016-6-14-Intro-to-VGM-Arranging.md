@@ -7,11 +7,23 @@ In my spare time, I enjoy reorchestrating video game music. Reorchestration is t
 
 With regards to music making, I specialize in creating high-definition covers of old video game music. I arrange a piece of music for orchestra and then use high-quality sample libraries (virtual orchestras) to render the piece of music. I use Reaper as my DAW (Digital Audio Workstation), and EastWest Quantum Leap Symphonic Orchestra Gold (EWQLSO Gold) and EastWest Quantum Leap Symphonic Choirs as my high-quality sample libraries. Below is a picture of 2011 me holding the boxed versions of EWQLSO and EWQLSC.
 
-![2011 me holding the boxed versions of EWQLSO and EWQLSC](http://www.pisanifamily.info/will/Pictures/EWQLSO_EWQLSC_2011.jpg)
+![2011 me holding the boxed versions of EWQLSO and EWQLSC](http://www.pisanifamily.info/will/Pictures/EWQLSO_EWQLSC_2011.jpg =267x200)
 
 So far I have one licensed album of arranged video game music called *Aural Nostaliga Vol 1*. It was released in May of 2014 and is available on [iTunes](https://itunes.apple.com/album/aural-nostalgia-vol-1/id872777033?v0=9988&ign-mpt=uo%3D1), [Google Play](https://play.google.com/store/music/album/Will_Pisani_Aural_Nostalgia_Vol_1?id=Bm3yzwsjuej6y57hkeewege4siu), [Loudr](http://www.loudr.fm/release/aural-nostalgia-vol-1/NZEXT), and [Spotify](https://play.spotify.com/album/6GbX9I4VbLUTvQJAiRSkGy) for $8.00.
 
-![album art of Aural Nostalgia Vol 1](http://mreomusic.com/wp-content/images/aural-nostalgia-vol-1.png.500.jpg)
+![album art of Aural Nostalgia Vol 1](http://mreomusic.com/wp-content/images/aural-nostalgia-vol-1.png.500.jpg =200x200)
+
+Here's the tracklist:
+1. "Sol Sanctum - The Elemental Stars" from *Golden Sun*
+1. "S.S. Anubis" from *Jet Force Gemini*
+1. "Condemned Tower" from *Castlevania: Dawn of Sorrow*
+1. "Fully Powered Suit" from *Metroid: Zero Mission*
+1. "Mt. Coronet" from *Pokemon Diamond/Pearl/Platinum*
+1. "Title Theme" from *Metroid Prime 2: Echoes*
+1. "Calming Dawn" from *Minecraft* (remix of "Sweden")
+1. "Phendrana Drifts" from *Metroid Prime*
+
+Below is a showcase of my work on SoundCloud.
 
 <html>
    <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/207481322&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
