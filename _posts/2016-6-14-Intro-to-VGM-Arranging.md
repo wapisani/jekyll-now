@@ -7,11 +7,11 @@ In my spare time, I enjoy reorchestrating video game music. Reorchestration is t
 
 With regards to music making, I specialize in creating high-definition covers of old video game music. I arrange a piece of music for orchestra and then use high-quality sample libraries (virtual orchestras) to render the piece of music. I use Reaper as my DAW (Digital Audio Workstation), and EastWest Quantum Leap Symphonic Orchestra Gold (EWQLSO Gold) and EastWest Quantum Leap Symphonic Choirs as my high-quality sample libraries. Below is a picture of 2011 me holding the boxed versions of EWQLSO and EWQLSC.
 
-![2011 me holding the boxed versions of EWQLSO and EWQLSC](http://www.pisanifamily.info/will/Pictures/EWQLSO_EWQLSC_2011.jpg =267x200)
+<img src="http://www.pisanifamily.info/will/Pictures/EWQLSO_EWQLSC_2011.jpg" width="267px" height="200px" />
 
 So far I have one licensed album of arranged video game music called *Aural Nostaliga Vol 1*. It was released in May of 2014 and is available on [iTunes](https://itunes.apple.com/album/aural-nostalgia-vol-1/id872777033?v0=9988&ign-mpt=uo%3D1), [Google Play](https://play.google.com/store/music/album/Will_Pisani_Aural_Nostalgia_Vol_1?id=Bm3yzwsjuej6y57hkeewege4siu), [Loudr](http://www.loudr.fm/release/aural-nostalgia-vol-1/NZEXT), and [Spotify](https://play.spotify.com/album/6GbX9I4VbLUTvQJAiRSkGy) for $8.00.
 
-![album art of Aural Nostalgia Vol 1](http://mreomusic.com/wp-content/images/aural-nostalgia-vol-1.png.500.jpg =200x200)
+<img src="http://mreomusic.com/wp-content/images/aural-nostalgia-vol-1.png.500.jpg" width="200px" height="200px" />
 
 Here's the tracklist:
 1. "Sol Sanctum - The Elemental Stars" from *Golden Sun*
