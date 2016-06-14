@@ -14,6 +14,7 @@ So far I have one licensed album of arranged video game music called *Aural Nost
 <img src="http://mreomusic.com/wp-content/images/aural-nostalgia-vol-1.png.500.jpg" width="200px" height="200px" />
 
 Here's the tracklist:
+
 1.  "Sol Sanctum - The Elemental Stars" from *Golden Sun*
 2. "S.S. Anubis" from *Jet Force Gemini*
 3. "Condemned Tower" from *Castlevania: Dawn of Sorrow*
