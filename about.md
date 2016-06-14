@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Will Pisani. I’m a second-year Ph.D. candidate in Mechanical Engineering - Engineering Mechanics at Michigan Technological University. My area of research is in using high-performance computing clusters to conduct molecular dynamics modeling of polymer composites. Understanding how polymer composites (widely used in the aerospace and automotive industries) behave at the molecular level is critical for building better polymer composites.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+In my spare time, I enjoy playing video games, reading novels, browsing Reddit, and arranging video game music. 
 
-### Contact me
+### Contact Me
 
-[email@domain.com](mailto:email@domain.com)
+See the social media links.
