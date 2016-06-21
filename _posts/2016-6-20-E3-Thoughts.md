@@ -1,4 +1,4 @@
---
+---
 layout: post
 title:  My Thoughts on E3 2016
 ---
@@ -12,7 +12,7 @@ Nintendo has some great coverage of The Legend of Zelda: Breath of the Wind on t
 I'm also really excited for Pokemon Sun and Moon and I can't wait to pick up my copy  on November 18, 2016! Just from seeing the three starters, I'm going to choose Rowlet because it's grass AND flying, a series first. I love the changes they've made to the battle interface. Now it shows you the in-battle stat modifications of each Pokemon and has an easy way to check the move descriptions (L+A on the selected move or tap the i symbol). Sun and Moon are set in a Hawaii-like region called Alola which I'm excited to see. There are four main islands to explore. Also, I'm always in awe of the translators present at these events; I'd love to be so fluent in two languages that I could translate on the fly.
 
 Now if I'm excited for Zelda and Pokemon, I'm super, super, super excited for Mass Effect Andromeda!! I watched the trailer four-five times the night it came out and I got tons of chills each time through and became teary-eyed the last time I watched it that night. Mass Effect is my favorite video game franchise ever. I've played each game multiple times as both Maleshep and Femshep with different romances and choices. It's just so good!! I still get chills when I watch the trailer (below). Andromeda will be awesome!
-<!--
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y2vgHOXeps0" frameborder="0" allowfullscreen></iframe>-->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y2vgHOXeps0" frameborder="0" allowfullscreen></iframe>
 
 
