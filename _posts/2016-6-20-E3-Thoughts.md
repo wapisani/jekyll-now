@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  My Thoughts on E3 2016
+title:  My Thoughts on the new Zelda, Pokemon, and Mass Effect
 ---
 
-This post is all about E3 2016 and my thoughts on the new games shown off. I don't have a PS4 or Xbox One and don't really plan on purchasing either one so I haven't followed their respective E3 news. I do have a Wii U and 3DS (and PC), and I'm very much a Nintendo guy. Always have been, probably always will be.
+This post is about the new Zelda, Pokemon Sun and Moon, and Mass Effect: Andromeda. I don't have a PS4 or Xbox One and don't really plan on purchasing either one so I haven't followed their respective E3 news. I do have a Wii U and 3DS (and PC), and I'm very much a Nintendo guy. Always have been, probably always will be.
 
 I'm very excited for the new Zelda; it's like Zelda meets Skyrim. I've played around 130 hours of Skyrim over the past five years and played most of the Zelda games at least once through (Ocarina of Time several times). Two of my favorite games/franchises in one? Yes, please! The art style is interesting: it's like Skyward Sword's water colors taken a bit further. It looks pretty nice, but I would have preferred something like the [Zelda tech demo at E3 2011](https://www.youtube.com/watch?v=arHNcSMXaBk). Actually, the more I think about the art style, the more I realize that it fits the game. A more realistic art style may have limited the scope of the game. A more stylistic art style allows the Wii U to do more (more enemies on screen, wide open spaces with little to no load times, etc.). It seems like The Legend of Zelda: Breath of the Wind takes place after the kingdom of Hyrule has declined and lies sort of in ruin. I wonder which of the three timelines this game is set? My guess is that it's set after Twilight Princess in the same timeline. 
 
