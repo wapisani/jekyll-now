@@ -11,14 +11,14 @@ Feel free to download these pictures for your personal use. If you want to share
 <div class="w3-card-4">
    <img src="http://pisanifamily.info/will/Pictures/Cleveland_Zoo/Best_Koala_Resized.JPG" class="w3-round" alt="Koala Bear">
    <div class="w3-container" style="text-align:center;">
-      <a href="http://pisanifamily.info/will/Pictures/Cleveland_Zoo/Best_Koala.JPG">Koala Bear</a> 
+      <a href="http://pisanifamily.info/will/Pictures/Cleveland_Zoo/Best_Koala.JPG">Koala Bear</a> - Cleveland 
    </div>
 </div>
 <br />
 <div class="w3-card-4">
    <img src="http://pisanifamily.info/will/Pictures/Cleveland_Zoo/Best_Elephant_Resized.JPG" class="w3-round" alt="African Elephant">
    <div class="w3-container" style="text-align:center;">
-      <a href="http://pisanifamily.info/will/Pictures/Cleveland_Zoo/Best_Elephant.JPG">African Elephant</a>
+      <a href="http://pisanifamily.info/will/Pictures/Cleveland_Zoo/Best_Elephant.JPG">African Elephant</a> - Milwaukee
    </div>
 
 </div>
@@ -26,7 +26,7 @@ Feel free to download these pictures for your personal use. If you want to share
 <div class="w3-card-4">
    <img src="http://pisanifamily.info/will/Pictures/Cleveland_Zoo/Best_Ocelot_Resized.JPG" class="w3-round" alt="Ocelot">
    <div class="w3-container" style="text-align:center;">
-      <a href="http://pisanifamily.info/will/Pictures/Cleveland_Zoo/Best_Cat.JPG">Ocelot</a>
+      <a href="http://pisanifamily.info/will/Pictures/Cleveland_Zoo/Best_Cat.JPG">Ocelot</a> - Cleveland
    </div>
 
 </div>
@@ -34,8 +34,9 @@ Feel free to download these pictures for your personal use. If you want to share
 <div class="w3-card-4">
    <img src="http://pisanifamily.info/will/Pictures/Cleveland_Zoo/Best_Stellers_Eagle_Resized.JPG" class="w3-round" alt="Steller's Sea Eagle">
    <div class="w3-container" style="text-align:center;">
-      <a href="http://pisanifamily.info/will/Pictures/Cleveland_Zoo/Best_Stellers_Eagle.JPG">Steller's Sea Eagle</a>
+      <a href="http://pisanifamily.info/will/Pictures/Cleveland_Zoo/Best_Stellers_Eagle.JPG">Steller's Sea Eagle</a> - Cleveland
    </div>
 
 </div>
 <br /> 
+As you can see, the Cleveland visit was much more fruitful than the Milwaukee visit. I attribute that to the fact that the enclosures at the Cleveland zoo were more open or used wire unlike the Milwaukee zoo which had a lot more glass. You can tell that my camera was able to focus past the wire for the eagle and ocelot (it's hard to tell, but there was wire between the ocelot and me).
