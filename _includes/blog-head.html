@@ -1,2 +1,9 @@
 <!--This file should be used to include code that needs to be used across all posts.
 However, if you want to include CSS, just put it in the style.sass file-->
+<script>
+document.addEventListener("DOMContentLoaded", function LastModified() {
+			var x = new Date(document.lastModified);
+			document.getElementById("time").innerHTML = "Last updated on " + x;
+		});
+
+</script>

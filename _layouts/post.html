@@ -12,7 +12,7 @@ layout: default
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
     <br /> 
-    Updated on {{ page.last_modified_at | date: "%B %e, %Y" }}
+    <p id="time"></p>
   </div>
 
   {% include disqus.html %}
