@@ -287,4 +287,5 @@ footer {
 @import "highlights";
 @import "svg-icons";
 /* My includes here */
+{% include hover.css %}
 {% include w3.css %}

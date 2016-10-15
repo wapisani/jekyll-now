@@ -2,9 +2,6 @@
 layout: post
 title:  How to set two separate wallpapers on Linux Mint 17.3
 ---
-<style>
-a{color:blue;}
-</style>
 One of my biggest disappointments after moving to Linux was discovering that DisplayFusion doesn't support Linux. [DisplayFusion](https://www.displayfusion.com/) is hands-down the best way to manage multiple monitors on Windows and is definitely worth upgrading to the pro version. But this post isn't meant to be a product endorsement, it's meant to show how to set two separate wallpapers on Linux Mint 17.3 Cinnamon.
 
 From what I've read on the Internet, it seems that other desktop environments like KDE can do this out of the box, but Cinnamon can't. So the easiest way is to install [nitrogen](http://projects.l3ib.org/nitrogen/). Nitrogen should work on any desktop environment that uses GNOME as a base. Just do ```sudo apt-get install nitrogen``` in your terminal and you should be all set to go. After installation, type ```nitrogen``` and hit enter to start the program.
