@@ -17,6 +17,7 @@ a.header:hover {color:white;text-decoration:none;}
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
     <br /> 
+    There are {{ page.content | number_of_words }} words in this post.
     <p id="time"></p>
   </div>
 
