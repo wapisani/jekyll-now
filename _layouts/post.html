@@ -8,6 +8,7 @@ a.header {text-decoration:none;}
 a.header:hover {color:white;text-decoration:none;}
 </style>
 <article class="post">
+
   <h1>{{ page.title }}</h1>
 
   <div class="entry">
@@ -17,7 +18,12 @@ a.header:hover {color:white;text-decoration:none;}
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
     <br /> 
-    There are {{ page.content | number_of_words }} words in this post.
+    {% capture words %}
+        {{ page.content | number_of_words | minus: 250 }}
+    {% endcapture %}
+    {% unless words contains "-" %}
+        There are {{ words | plus: 250 }} words in this post.
+    {% endunless %}
     <p id="time"></p>
   </div>
 

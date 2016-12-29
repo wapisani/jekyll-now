@@ -8,14 +8,21 @@ a.readmore { color:blue;text-decoration:underline;}
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
-
+      {% capture words %}
+          {{ post.content | number_of_words | minus: 250 }}
+      {% endcapture %}
+      {% capture minutes %}
+          {% unless words contains "-" %}
+               {{ words | plus: 250 | divided_by: 180 | append: " minute read" }}
+          {% endunless %}
+      {% endcapture %} 
       <h1><a class="postlink hvr-float" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
       Posted on {{ post.date | date: "%B %e, %Y" }}
       <div class="entry">
         {{ post.excerpt }}
       </div>
 
-      <a class="readmore hvr-pulse" href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <a class="readmore hvr-pulse" href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a> {{ minutes }}
     </article>
   {% endfor %}
 </div>
