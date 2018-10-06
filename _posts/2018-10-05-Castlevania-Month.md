@@ -5,7 +5,7 @@ title: October is Castlevania Month!
 
 October is Halloween month, with everything that that entails: searching for or making the perfect costume, enjoying scary TV shows and movies, eating candy and Halloween-inspired dishes, and, of course, playing Halloween-y video games like Resident Evil, Dark Souls, or [Castlevania](https://www.wikiwand.com/en/Castlevania). 
 
-This month I am going to attempt a marathon of the [Metroidvania-style](https://www.wikiwand.com/en/Metroidvania) [Castlevania games](https://www.konami.com/games/castlevania/eu/en/history): Symphony of the Night (SotN), Harmony of Dissonance (HoD), Circle of the Moon (CotM), Aria of Sorrow (AoS), Dawn of Sorrow (DoS), Portrait of Ruin (PoR), and Order of Ecclesia (OoE). Prior to this October, I had only beaten DoS, PoR, and OoE. I have played the others, but haven't beaten them. As I beat them, I'll update this post with my thoughts. All of these games are at least nine years old so I won't be avoiding spoilers.
+This month I am going to attempt a marathon of the [Metroidvania-style](https://www.wikiwand.com/en/Metroidvania) [Castlevania games](https://www.konami.com/games/castlevania/eu/en/history): Symphony of the Night (SotN), Harmony of Dissonance (HoD), Circle of the Moon (CotM), Aria of Sorrow (AoS), Dawn of Sorrow (DoS), Portrait of Ruin (PoR), and Order of Ecclesia (OoE). Prior to this October, I had only beaten DoS, PoR, CotM, and OoE. I have played the others, but haven't beaten them. As I beat them, I'll update this post with my thoughts. All of these games are at least nine years old so I won't be avoiding spoilers.
 
 ### Castlevania: Aria of Sorrow
 
