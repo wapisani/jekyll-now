@@ -12,7 +12,7 @@ So far, it's looking like the album will be about 41 GS/TLA songs and 5 Golden S
 
 1.	The Golden Sun Sets - ~12 seconds
 2.	The Golden Sun Rises
-3.	Walking Forward with Determination
+3.	Walking Forward with Determination - [WiP Mar 8, 2019](https://soundcloud.com/willpisani/walking-forward-with-determination-golden-sun-v01)
 4.	Venus Lighthouse
 5.	Set Sail! Through the Karagol Sea
 6.	Mars Lighthouse
@@ -27,19 +27,19 @@ So far, it's looking like the album will be about 41 GS/TLA songs and 5 Golden S
 15.	Battle! [Doom Dragon]
 16.	Battle! [Agatio and Karst]
 17.	Desert Heat
-18.	On That Night, 3 Years Ago
+18.	On That Night, 3 Years Ago - [WiP Mar 8, 2019](https://soundcloud.com/willpisani/on-that-night-3-years-ago-golden-sun-v-01)
 19.	Sol Sanctum
 20.	Ruins of Lemuria
 21.	The Elemental Stars
 22.	The Final Beacon
 23.	Traversing Weyard
 24.	The Angarian Journey
-25.	Oriental
+25.	Oriental - [WiP Mar 8, 2019](https://soundcloud.com/willpisani/oriental-golden-sun-v01)
 26.	Forest's Requiem
 27.	Inside the Great Gabomba
 28.	Sorrow and Regret
 29.	Air’s Rock
-30.	Aqua Rock - [WiP Nov 26](https://soundcloud.com/willpisani/aqua-rock-v05-golden-sun)
+30.	Aqua Rock - [WiP Nov 26, 2018](https://soundcloud.com/willpisani/aqua-rock-v05-golden-sun)
 31.	Gaia Rock
 32.	Magma Rock
 33.	An Adept’s Home
