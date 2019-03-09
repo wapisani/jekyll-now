@@ -11,7 +11,7 @@ The album art is below. The album art base image was found at the URL: [https://
 So far, it's looking like the album will be about 41 GS/TLA songs and 5 Golden Sun: Dark Dawn songs, but the final count may change closer to release. The tentative tracklist is below. I'm planning on adding links to work-in-progress tracks on my SoundCloud as I work on the album.
 
 1.	The Golden Sun Sets - ~12 seconds
-2.	The Golden Sun Rises
+2.	The Golden Sun Rises - [WiP Mar 8, 2019](https://soundcloud.com/willpisani/the-golden-sun-rises-golden-sun-v01)
 3.	Walking Forward with Determination - [WiP Mar 8, 2019](https://soundcloud.com/willpisani/walking-forward-with-determination-golden-sun-v01)
 4.	Venus Lighthouse
 5.	Set Sail! Through the Karagol Sea
