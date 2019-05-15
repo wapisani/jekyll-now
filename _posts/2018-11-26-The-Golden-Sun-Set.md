@@ -6,7 +6,7 @@ title: The Golden Sun Set - Arriving Dec 25, 2019
 Over the next year, I will be working on a reorchestrated album of Golden Sun and Golden Sun: The Lost Age music called "The Golden Sun Set". I'm hoping to release the album on December 25, 2019 on all of the major music platforms. 
 
 Update May 14, 2019:
-Nine (9) in-progress tracks so far. The target date for finishing the album is Thanksgiving 2019. I don't think the original tracklist will be the final list since there are 47 more tracks left to go and six months left. Plus research to conduct, a dissertation to write and defend, moving, starting a new job, etc. There are probably not going to be more than 20 tracks, if that.
+Nine (9) in-progress tracks so far. The target date for finishing the album is Thanksgiving 2019. I don't think the original tracklist will be the final list since there are 37 more tracks left to go and six months left. Plus research to conduct, a dissertation to write and defend, moving, starting a new job, etc. There are probably not going to be more than 20 tracks, if that.
 
 The final tracklist will probably be more like the list below.
 1. On That Night 3 Years Ago
