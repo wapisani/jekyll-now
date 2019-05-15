@@ -11,10 +11,10 @@ The album art is below. The album art base image was found at the URL: [https://
 So far, it's looking like the album will be about 41 GS/TLA songs and 5 Golden Sun: Dark Dawn songs, but the final count may change closer to release. The tentative tracklist is below. I'm planning on adding links to work-in-progress tracks on my SoundCloud as I work on the album.
 
 1.	The Golden Sun Sets - ~12 seconds
-2.	The Golden Sun Rises - [WiP Mar 8, 2019](https://soundcloud.com/willpisani/the-golden-sun-rises-golden-sun-v01)
+2.	The Golden Sun Rises - [WiP May 14, 2019](https://soundcloud.com/willpisani/the-golden-sun-rises-golden-sun-v08)
 3.	Walking Forward with Determination - [WiP Mar 8, 2019](https://soundcloud.com/willpisani/walking-forward-with-determination-golden-sun-v01)
 4.	Venus Lighthouse
-5.	Set Sail! Through the Karagol Sea
+5.	Set Sail! Through the Karagol Sea - [WiP May 14, 2019](https://soundcloud.com/willpisani/set-sail-through-the-karagol-sea-golden-sun-v01)
 6.	Mars Lighthouse
 7.	The First Book
 8.	The Second Book
@@ -24,7 +24,7 @@ So far, it's looking like the album will be about 41 GS/TLA songs and 5 Golden S
 12.	Mercury Lighthouse
 13.	Battle! [Fusion Dragon]
 14.	Battle! [Saturos and Menardi]
-15.	Battle! [Doom Dragon]
+15.	Battle! [Doom Dragon] - [WiP May 14, 2019](https://soundcloud.com/willpisani/battle-doom-dragon-golden-sun-v01)
 16.	Battle! [Agatio and Karst]
 17.	Desert Heat
 18.	On That Night, 3 Years Ago - [WiP Mar 8, 2019](https://soundcloud.com/willpisani/on-that-night-3-years-ago-golden-sun-v-01)
@@ -43,8 +43,8 @@ So far, it's looking like the album will be about 41 GS/TLA songs and 5 Golden S
 31.	Gaia Rock
 32.	Magma Rock
 33.	An Adept’s Home
-34.	Battle! [Jenna]
-35.	A Full Moon in Garoh
+34.	Battle! [Jenna] - [WiP May 14, 2019](https://soundcloud.com/willpisani/battle-jenna-golden-sun-v01)
+35.	A Full Moon in Garoh - [WiP May 14, 2019](https://soundcloud.com/willpisani/a-full-moon-in-garoh-golden-sun-v01)
 36.	Battle! [Saturos]
 37.	Battle! [Non-Adept]
 38.	Island Medley
