@@ -5,6 +5,30 @@ title: The Golden Sun Set - Arriving Dec 25, 2019
 
 Over the next year, I will be working on a reorchestrated album of Golden Sun and Golden Sun: The Lost Age music called "The Golden Sun Set". I'm hoping to release the album on December 25, 2019 on all of the major music platforms. 
 
+Update May 14, 2019:
+Nine (9) in-progress tracks so far. The target date for finishing the album is Thanksgiving 2019. I don't think the original tracklist will be the final list since there are 47 more tracks left to go and six months left. Plus research to conduct, a dissertation to write and defend, moving, starting a new job, etc. There are probably not going to be more than 20 tracks, if that.
+
+The final tracklist will probably be more like the list below.
+1. On That Night 3 Years Ago
+2. Sol Sanctum/The Elemental Stars
+3. Venus Lighthouse
+4. Walking Forward with Determination
+5. Set Sail! Through the Karagol Sea
+6. Mars Lighthouse
+7. Battle! Doom Dragon
+8. Oriental
+9. A Full Moon in Garoh
+10. Aqua Rock
+11. The First Book
+12. The Second Book
+13. Battle! Jenna
+14. Battle! Isaac
+15. Battle! Felix
+16. The Final Beacon
+17. The Golden Sun Rises
+
+
+
 The album art is below. The album art base image was found at the URL: [https://www.pexels.com/photo/flight-landscape-nature-sky-36717/](https://www.pexels.com/photo/flight-landscape-nature-sky-36717/). It is a royalty-free image that can be used for any legal purpose and can be modified. The font I used for the text in the album art is called “Elementary Gothic Bookhand” and can be used for free for commercial and non-commercial use. It can be found at the URL: [https://www.dafont.com/elementary-gothic-bookhand.font](https://www.dafont.com/elementary-gothic-bookhand.font). 
 <img src="/images/TheGoldenSunSet_Album_Art.jpg">
 
