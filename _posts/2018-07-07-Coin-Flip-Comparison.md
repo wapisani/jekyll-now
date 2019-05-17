@@ -21,9 +21,6 @@ Created on Mon Jul 02 00:16:48 2018
 
 A simple coin flip function.
 
-WARNING: This code can be dangerous for your computer if you change 
-num_of_cores to a number larger than the number of cores your computer
-physically has.
 """
 
 # Define coin flip function
@@ -115,8 +112,6 @@ if __name__ == '__main__':
         
         print("Time taken: {} seconds".format((time.clock() - start_time)))
 ```
-
-This warning is in the Python code, but it's worth repeating: parallel code can be dangerous for your computer if you run it with more cores than it physically has. It can reduce the lifetime of your processor.
 
 All code was run on an [Intel Core i7-7700](https://ark.intel.com/products/97128/Intel-Core-i7-7700-Processor-8M-Cache-up-to-4_20-GHz) clocked at 3.60 GHz (turbo boost up to 4.20 GHz) with 4 cores and 8 logical cores.
 
