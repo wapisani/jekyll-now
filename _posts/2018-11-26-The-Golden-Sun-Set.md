@@ -5,27 +5,28 @@ title: The Golden Sun Set - Arriving Dec 25, 2019
 
 Over the next year, I will be working on a reorchestrated album of Golden Sun and Golden Sun: The Lost Age music called "The Golden Sun Set". I'm hoping to release the album on December 25, 2019 on all of the major music platforms. 
 
-Update May 14, 2019:
-Nine (9) in-progress tracks so far. The target date for finishing the album is Thanksgiving 2019. I don't think the original tracklist will be the final list since there are 37 more tracks left to go and six months left. Plus research to conduct, a dissertation to write and defend, moving, starting a new job, etc. There are probably not going to be more than 20 tracks, if that.
+Update May 21, 2019:
+Eleven (11) in-progress tracks so far. The target date for finishing the album is Thanksgiving 2019. I don't think the original tracklist will be the final list since there are 35 more tracks left to go and six months left. Plus research to conduct, a dissertation to write and defend, moving, starting a new job, etc. There are probably not going to be more than 20 tracks, if that. Perhaps there will be a volume 2 in the future.
 
 The final tracklist will probably be more like the list below.
-1. On That Night 3 Years Ago
-2. Sol Sanctum/The Elemental Stars
+1. On That Night 3 Years Ago - [WiP Mar 8, 2019](https://soundcloud.com/willpisani/on-that-night-3-years-ago-golden-sun-v-01)
+2. Sol Sanctum
 3. Venus Lighthouse
-4. Walking Forward with Determination
-5. Set Sail! Through the Karagol Sea
+4. Walking Forward with Determination - [WiP Mar 8, 2019](https://soundcloud.com/willpisani/walking-forward-with-determination-golden-sun-v01)
+5. Set Sail! Through the Karagol Sea - [WiP May 14, 2019](https://soundcloud.com/willpisani/set-sail-through-the-karagol-sea-golden-sun-v01)
 6. Mars Lighthouse
-7. Battle! Doom Dragon
-8. Oriental
-9. A Full Moon in Garoh
-10. Aqua Rock
+7. Battle! Doom Dragon - [WiP May 14, 2019](https://soundcloud.com/willpisani/battle-doom-dragon-golden-sun-v01)
+8. Oriental - [WiP Mar 8, 2019](https://soundcloud.com/willpisani/oriental-golden-sun-v01)
+9. A Full Moon in Garoh - [WiP May 14, 2019](https://soundcloud.com/willpisani/a-full-moon-in-garoh-golden-sun-v01)
+10. Aqua Rock - [WiP Nov 26, 2018](https://soundcloud.com/willpisani/aqua-rock-v05-golden-sun)
 11. The First Book
 12. The Second Book
-13. Battle! Jenna
+13. Battle! Jenna - [WiP May 14, 2019](https://soundcloud.com/willpisani/battle-jenna-golden-sun-v01)
 14. Battle! Isaac
 15. Battle! Felix
 16. The Final Beacon
-17. The Golden Sun Rises
+17. The Elemental Stars
+18. The Golden Sun Rises - [WiP May 14, 2019](https://soundcloud.com/willpisani/the-golden-sun-rises-golden-sun-v08)
 
 
 
