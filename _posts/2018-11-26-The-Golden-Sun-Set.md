@@ -10,8 +10,8 @@ Eleven (11) in-progress tracks so far. The target date for finishing the album i
 
 The final tracklist will probably be more like the list below.
 1. On That Night 3 Years Ago - [WiP Mar 8, 2019](https://soundcloud.com/willpisani/on-that-night-3-years-ago-golden-sun-v-01)
-2. Sol Sanctum
-3. Venus Lighthouse
+2. Sol Sanctum - [WiP May 21, 2019](https://soundcloud.com/willpisani/sol-sanctum-golden-sun-v01)
+3. Venus Lighthouse - [WiP May 21, 2019](https://soundcloud.com/willpisani/venus-lighthouse-golden-sun-v01)
 4. Walking Forward with Determination - [WiP Mar 8, 2019](https://soundcloud.com/willpisani/walking-forward-with-determination-golden-sun-v01)
 5. Set Sail! Through the Karagol Sea - [WiP May 14, 2019](https://soundcloud.com/willpisani/set-sail-through-the-karagol-sea-golden-sun-v01)
 6. Mars Lighthouse
