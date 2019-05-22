@@ -9,24 +9,30 @@ Update May 21, 2019:
 Eleven (11) in-progress tracks so far. The target date for finishing the album is Thanksgiving 2019. I don't think the original tracklist will be the final list since there are 35 more tracks left to go and six months left. Plus research to conduct, a dissertation to write and defend, moving, starting a new job, etc. There are probably not going to be more than 20 tracks, if that. Perhaps there will be a volume 2 in the future.
 
 The final tracklist will probably be more like the list below.
-1. On That Night 3 Years Ago - [WiP Mar 8, 2019](https://soundcloud.com/willpisani/on-that-night-3-years-ago-golden-sun-v-01)
-2. Sol Sanctum - [WiP May 21, 2019](https://soundcloud.com/willpisani/sol-sanctum-golden-sun-v01)
-3. Venus Lighthouse - [WiP May 21, 2019](https://soundcloud.com/willpisani/venus-lighthouse-golden-sun-v01)
-4. Walking Forward with Determination - [WiP Mar 8, 2019](https://soundcloud.com/willpisani/walking-forward-with-determination-golden-sun-v01)
-5. Set Sail! Through the Karagol Sea - [WiP May 14, 2019](https://soundcloud.com/willpisani/set-sail-through-the-karagol-sea-golden-sun-v01)
-6. Mars Lighthouse
-7. Battle! Doom Dragon - [WiP May 14, 2019](https://soundcloud.com/willpisani/battle-doom-dragon-golden-sun-v01)
-8. Oriental - [WiP Mar 8, 2019](https://soundcloud.com/willpisani/oriental-golden-sun-v01)
-9. A Full Moon in Garoh - [WiP May 14, 2019](https://soundcloud.com/willpisani/a-full-moon-in-garoh-golden-sun-v01)
-10. Aqua Rock - [WiP Nov 26, 2018](https://soundcloud.com/willpisani/aqua-rock-v05-golden-sun)
-11. The First Book
-12. The Second Book
-13. Battle! Jenna - [WiP May 14, 2019](https://soundcloud.com/willpisani/battle-jenna-golden-sun-v01)
-14. Battle! Isaac
-15. Battle! Felix
-16. The Final Beacon
-17. The Elemental Stars
-18. The Golden Sun Rises - [WiP May 14, 2019](https://soundcloud.com/willpisani/the-golden-sun-rises-golden-sun-v08)
+1. The First Book
+2. On That Night 3 Years Ago - [WiP Mar 8, 2019](https://soundcloud.com/willpisani/on-that-night-3-years-ago-golden-sun-v-01)
+3. Sol Sanctum - [WiP May 21, 2019](https://soundcloud.com/willpisani/sol-sanctum-golden-sun-v01)
+4. The Elemental Stars
+5. Battle! Isaac
+6. Mercury Lighthouse
+Oriental - [WiP Mar 8, 2019](https://soundcloud.com/willpisani/oriental-golden-sun-v01)
+7. Set Sail! Through the Karagol Sea - [WiP May 14, 2019](https://soundcloud.com/willpisani/set-sail-through-the-karagol-sea-golden-sun-v01)
+8. Ready for a Challenge 
+9. Venus Lighthouse - [WiP May 21, 2019](https://soundcloud.com/willpisani/venus-lighthouse-golden-sun-v01)
+10. Battle! [Fusion Dragon] 
+11. The Second Book
+12. Battle! Jenna - [WiP May 14, 2019](https://soundcloud.com/willpisani/battle-jenna-golden-sun-v01)
+13. Battle! Felix
+14. A Full Moon in Garoh - [WiP May 14, 2019](https://soundcloud.com/willpisani/a-full-moon-in-garoh-golden-sun-v01)
+15. Aqua Rock - [WiP Nov 26, 2018](https://soundcloud.com/willpisani/aqua-rock-v05-golden-sun)
+16. Jupiter Lighthouse
+17. Walking Forward with Determination - [WiP Mar 8, 2019](https://soundcloud.com/willpisani/walking-forward-with-determination-golden-sun-v01)
+18. Mars Lighthouse
+19. Battle! Doom Dragon - [WiP May 14, 2019](https://soundcloud.com/willpisani/battle-doom-dragon-golden-sun-v01)
+20. The Golden Sun Rises - [WiP May 14, 2019](https://soundcloud.com/willpisani/the-golden-sun-rises-golden-sun-v08)
+
+
+
 
 
 
