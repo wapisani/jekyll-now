@@ -15,21 +15,21 @@ The final tracklist will probably be more like the list below.
 4. The Elemental Stars
 5. Battle! Isaac
 6. Mercury Lighthouse
-Oriental - [WiP Mar 8, 2019](https://soundcloud.com/willpisani/oriental-golden-sun-v01)
-7. Set Sail! Through the Karagol Sea - [WiP May 14, 2019](https://soundcloud.com/willpisani/set-sail-through-the-karagol-sea-golden-sun-v01)
-8. Ready for a Challenge 
-9. Venus Lighthouse - [WiP May 21, 2019](https://soundcloud.com/willpisani/venus-lighthouse-golden-sun-v01)
-10. Battle! [Fusion Dragon] 
-11. The Second Book
-12. Battle! Jenna - [WiP May 14, 2019](https://soundcloud.com/willpisani/battle-jenna-golden-sun-v01)
-13. Battle! Felix
-14. A Full Moon in Garoh - [WiP May 14, 2019](https://soundcloud.com/willpisani/a-full-moon-in-garoh-golden-sun-v01)
-15. Aqua Rock - [WiP Nov 26, 2018](https://soundcloud.com/willpisani/aqua-rock-v05-golden-sun)
-16. Jupiter Lighthouse
-17. Walking Forward with Determination - [WiP Mar 8, 2019](https://soundcloud.com/willpisani/walking-forward-with-determination-golden-sun-v01)
-18. Mars Lighthouse
-19. Battle! Doom Dragon - [WiP May 14, 2019](https://soundcloud.com/willpisani/battle-doom-dragon-golden-sun-v01)
-20. The Golden Sun Rises - [WiP May 14, 2019](https://soundcloud.com/willpisani/the-golden-sun-rises-golden-sun-v08)
+7. Oriental - [WiP Mar 8, 2019](https://soundcloud.com/willpisani/oriental-golden-sun-v01)
+8. Set Sail! Through the Karagol Sea - [WiP May 14, 2019](https://soundcloud.com/willpisani/set-sail-through-the-karagol-sea-golden-sun-v01)
+9. Ready for a Challenge 
+10. Venus Lighthouse - [WiP May 21, 2019](https://soundcloud.com/willpisani/venus-lighthouse-golden-sun-v01)
+11. Battle! [Fusion Dragon] 
+12. The Second Book
+13. Battle! Jenna - [WiP May 14, 2019](https://soundcloud.com/willpisani/battle-jenna-golden-sun-v01)
+14. Battle! Felix
+15. A Full Moon in Garoh - [WiP May 14, 2019](https://soundcloud.com/willpisani/a-full-moon-in-garoh-golden-sun-v01)
+16. Aqua Rock - [WiP Nov 26, 2018](https://soundcloud.com/willpisani/aqua-rock-v05-golden-sun)
+17. Jupiter Lighthouse
+18. Walking Forward with Determination - [WiP Mar 8, 2019](https://soundcloud.com/willpisani/walking-forward-with-determination-golden-sun-v01)
+19. Mars Lighthouse
+20. Battle! Doom Dragon - [WiP May 14, 2019](https://soundcloud.com/willpisani/battle-doom-dragon-golden-sun-v01)
+21. The Golden Sun Rises - [WiP May 14, 2019](https://soundcloud.com/willpisani/the-golden-sun-rises-golden-sun-v08)
 
 
 
