@@ -25,7 +25,7 @@ The final tracklist will probably be more like the list below.
 14. Battle! Felix
 15. A Full Moon in Garoh - [WiP May 14, 2019](https://soundcloud.com/willpisani/a-full-moon-in-garoh-golden-sun-v01)
 16. Aqua Rock - [WiP Nov 26, 2018](https://soundcloud.com/willpisani/aqua-rock-v05-golden-sun)
-17. Jupiter Lighthouse
+17. Jupiter Lighthouse - [WiP Aug 31, 2019](https://soundcloud.com/willpisani/jupiter-lighthouse-golden-sunv01)
 18. Walking Forward with Determination - [WiP Mar 8, 2019](https://soundcloud.com/willpisani/walking-forward-with-determination-golden-sun-v01)
 19. Mars Lighthouse
 20. Battle! Doom Dragon - [WiP May 14, 2019](https://soundcloud.com/willpisani/battle-doom-dragon-golden-sun-v01)
