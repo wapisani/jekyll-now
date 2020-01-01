@@ -14,12 +14,7 @@ In my 2019 resolutions post, I wrote that I wasn't sure what my 2018 resolutions
 
 My biggest 2019 resolution was to finish my Ph.D in mechanical engineering - engineering mechanics at Michigan Tech. I can proudly say that I was successful! I am now the third Dr. Pisani.
 
-<div class="w3-card-4">
-   <img src="https://pisanifamily.info/will/Pictures/Will_Pisani_PhD.png" class="w3-round" alt="Dr. Will Pisani">
-   <div class="w3-container" style="text-align:center;">
-      Dr. Will Pisani
-   </div>
-</div>
+<img src="https://pisanifamily.info/will/Pictures/Will_Pisani_PhD.png" class="w3-round" alt="Dr. Will Pisani">
 
 I only released one VGM single: "Secret of the Forest" from *Chrono Trigger*. It's available on all of the major music distribution platforms under the name Will Pisani. Here are a few links:  <a href="https://open.spotify.com/album/0bH15SPk9Tb3G635lHKU1x">Spotify</a>, <a href="https://itunes.apple.com/us/album/secret-of-the-forest-from-chrono-trigger-single/1449309810?ign-mpt=uo%3D4">iTunes</a>, <a href="https://www.amazon.com/dp/B07MCMTFVP">Amazon</a>, <a href="https://play.google.com/store/music/album/Will_Pisani_Secret_of_the_Forest_From_Chrono_Trigg?id=Bg5ubanzwil5jfbgocbksu6mefi">Google Play</a>, <a href="https://music.youtube.com/watch?v=aZlAx71Sa9c&list=RDAMVMaZlAx71Sa9c">Youtube Music</a>, <a href="https://www.deezer.com/us/album/84145192?utm_source=deezer&utm_content=album-84145192&utm_term=0_1547263200&utm_medium=web">Deezer</a>. I do have several singles ready to go, enough for an EP, actually. They are ["Main Theme" from *Mass Effect*](https://soundcloud.com/willpisani/mass-effect-main-theme-v11), ["City Trial" from *Kirby Air Ride*](https://soundcloud.com/willpisani/kirby-air-ride-city-trial-v10), ["Title Theme" from *Radiant Historia: Perfect Chronology*](https://soundcloud.com/willpisani/radiant-historia-from-radiant-historia-perfect-chronology-v1), ["Title Theme" from *Metroid Prime 3: Corruption*](https://soundcloud.com/willpisani/metroid-prime-3-corruption-1), and ["Title Theme" from *Jet Force Gemini*](https://soundcloud.com/willpisani/title-theme-jet-force-gemini-v1).
 
