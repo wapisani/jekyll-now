@@ -58,9 +58,7 @@ if __name__ == '__main__':
     if parallel_flag == 1:
         
         
-        # NOTE: This code can be dangerous for your computer if you change 
-        # num_of_cores to a number larger than the number of cores your computer
-        # physically has. The typical desktop i7 has four cores with hyperthreading
+        # The typical desktop i7 has four cores with hyperthreading
         # enabled for a total of 8 cores. multi.cpu_count() will tell you how 
         # many total cores are in your computer.
         
